@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asfa50/connecting-metamask/static/css/main.f527549b.css",
+    "main.js": "/asfa50/connecting-metamask/static/js/main.67d8e034.js",
+    "static/js/787.5fd385bd.chunk.js": "/asfa50/connecting-metamask/static/js/787.5fd385bd.chunk.js",
+    "index.html": "/asfa50/connecting-metamask/index.html",
+    "main.f527549b.css.map": "/asfa50/connecting-metamask/static/css/main.f527549b.css.map",
+    "main.67d8e034.js.map": "/asfa50/connecting-metamask/static/js/main.67d8e034.js.map",
+    "787.5fd385bd.chunk.js.map": "/asfa50/connecting-metamask/static/js/787.5fd385bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f527549b.css",
+    "static/js/main.67d8e034.js"
+  ]
+}
